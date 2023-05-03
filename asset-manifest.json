@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd9cc84f.css",
+    "main.css": "/static/css/main.d51aa93f.css",
     "main.js": "/static/js/main.0163e5ec.js",
     "static/js/787.87adf8e5.chunk.js": "/static/js/787.87adf8e5.chunk.js",
-    "static/media/Mangekyou-Sharingan.png": "/static/media/Mangekyou-Sharingan.0465baf5eb7452230729.png",
     "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.37c522d97be8b2c0ab47.ttf",
+    "static/media/Mangekyou-Sharingan.webp": "/static/media/Mangekyou-Sharingan.971e1708337addfad822.webp",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.bd9cc84f.css.map": "/static/css/main.bd9cc84f.css.map",
+    "main.d51aa93f.css.map": "/static/css/main.d51aa93f.css.map",
     "main.0163e5ec.js.map": "/static/js/main.0163e5ec.js.map",
     "787.87adf8e5.chunk.js.map": "/static/js/787.87adf8e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd9cc84f.css",
+    "static/css/main.d51aa93f.css",
     "static/js/main.0163e5ec.js"
   ]
 }
